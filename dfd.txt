@@ -1,0 +1,29 @@
++----------------+          +------------------+           +----------------+
+|    User        |          |    BakeSale       |           |    Table        |
++----------------+          +------------------+           +----------------+
+| userID: int    |<>------> | bakeSaleID: int   |<>-------->| tableID: int    |
+| name: String   |          | date: Date        |           | tableNumber: int|
+| email: String  |          | location: String  |           | status: String  |
+| password: String|          | description: String|           +----------------+
+| role: String   |          +------------------+           | assignTable()   |
++----------------+          | createBakeSale()  |           | editTableLayout()|
+| login()        |          | editBakeSale()    |           | viewAvailableTables()|
+| logout()       |          | deleteBakeSale()  |           +----------------+
+| resetPassword()|          +------------------+           
++----------------+                                          
+        |                                                     +----------------+
+        |                                                     |    Seller       |
+        v                                                     +----------------+
++----------------+          +------------------+             | sellerID: int   |
+|    Customer    |<>------> |    Item           |<>---------->| name: String    |
++----------------+          +------------------+             | paymentStatus:  |
+| customerID: int|          | itemID: int       |             | String          |
+| name: String   |          | name: String      |             +----------------+
+| email: String  |          | price: float      |             | registerForSale()|
++----------------+          | quantity: int     |             | submitItems()   |
+| viewBakeSales()|          | image: String     |             | makePayment()   |
++----------------+          +------------------+             +----------------+
+                           | addItem()          |
+                           | removeItem()       |
+                           | editItemDetails()  |
+                           +------------------+
