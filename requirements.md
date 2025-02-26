@@ -1,41 +1,73 @@
-High-Level Component Architecture
+High Level Component Architecture
 
-Front-End:
-Simple, intuitive web interface with large text and easy-to-navigate features.
-Responsive design to ensure compatibility with tablets or larger displays.
-Back-End:
-Database to handle user accounts, bake sale schedules, table assignments, payment records, etc.
-Server-side logic to manage user roles (Admin, Bake Sale Manager, Seller, Customer) and different views.
+Front End:
+
+Clean, easy-to-use web application with big buttons and literal features like text-to-speech.
+
+Tablet and larger displays are supported due to responsive design.
+
+Back End:
+
+A table for every user account fields like bake sale dates, tables, payments, etc.
+
+Role based access features Admin, Bake Sale Manager, Seller, Customer with various user specific views.
+
 Security & Accessibility:
-Account management, including password resets and role-based access control.
-Accessibility considerations (large text, easy-to-read fonts, etc.).
-Integration:
-Ability to upload images for flyers and advertisements.
-Top-Level Goals:
 
-Streamline the management of bake sales for Senior Center staff.
-Provide an easy-to-use system for users with limited technical knowledge.
-Ensure seamless coordination of table rentals, scheduling, and payment tracking.
+Full account control: resets, password changing, and permission boundaries.
+
+Accessibility considerations: large text, fonts that are easy to reader, etc.
+
+Integration:
+
+Upload pictures to be used within flyers and advertisements.
+
+Top Level Goals:
+
+Make bake sale management easier for Senior Center staff.
+
+Make the system more user friendly for people that are not very technical.
+
+Allow for comprehensive control of booked tables, time slots, and payments.
+
 Functional Requirements:
 
-Administrative User Interface (Mr. Rogers):
-Ability to manage user accounts, reset passwords, and view payment transactions.
-Calendar view for coordinating bake sales and events.
-Interface for creating/editing table layouts.
-Bake Sale Management (Ms. Smith):
-Calendar view showing available and scheduled dates.
-Drag-and-drop table assignment for sellers.
-Manage payments (online, cash, and check).
+Admin User Interface (Mr Rogers):
+
+Manage user accounts, passwords, and view payments.
+
+Calendar for bake sale events.
+
+Table layout creator/editor.
+
+Workshop Sale Management (Mrs Smith):
+
+Calendar with days available and already booked.
+
+Drag and drop table assignation for sellers.
+
+Payment management (internet, cash, and checks).
+
 Bakers/Sellers:
-Sign up for sales and pay fees.
-Create and manage a list of items to sell.
-Upload pictures of items.
+
+Registration to sale with payment.
+
+Creating, editing, and deleting items that are intended for sale.
+
+Item images upload.
+
 Customers:
-View upcoming sales, no login required.
-Link to the Senior Center's website for more information.
+
+View next events without any login.
+
+For additional details, kindly access the Senior Center’s website.
+
 Non-Functional Requirements:
 
-Usability: Easy-to-use interface for senior citizens.
-Accessibility: Large text and accessible design.
-Performance: Fast loading and low latency for users with slow internet.
-Security: Proper authentication and authorization.
+Usability: An appropriate interface for senior citizens to navigate easily.
+
+Accessibility: Large fonts and easy to use design.
+
+Performance: Quick load time and low latency for slow internet users.
+
+Security: Adequate authentication and authorization.
