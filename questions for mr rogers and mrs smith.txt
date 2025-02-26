@@ -1,0 +1,73 @@
+Questions for Mr. Rogers (Admin/Administrator):
+
+User Management:
+
+Would you like the option to create accounts manually for other users?
+
+Would you like to be able to perform a password reset for the users?
+
+Bake Sale Scheduling:
+
+What is the maximum time span you would like to be able to schedule bake sales in advance?
+
+Are you getting reminders for bake sales before they happen?
+
+Transaction Records:
+
+Would you like to see a record of payments per each seller?
+
+Would you like to access financial reports pertaining to the bake sales?
+
+System Interface:
+
+Would you like to have an intuitive, uncomplicated interface for easier management of everything?
+
+Does the system need to have any other features like increased text size for better accessibility?
+
+Integration with Senior Center Website:
+
+Aside from posting ads, do you require any additional features for integration with Senior Center's website?
+
+Questions for Ms. Smith (Bake Sale Manager):
+
+Table Management:
+
+In what ways do you wish the assignment of tables to sellers to be managed. Is it first-come, first-served?
+
+Do you want to see the tables as being available or occupied?
+
+Seller Registration & Payment:
+
+How do you want to keep track of payments? Make it so that sellers mark themselves as paid or would you prefer them to do it manually?
+
+Should sellers be allowed to change their registration details or cancel their registration altogether?
+
+Item Management:
+
+Do you wish for sellers to be able to put their prices on the items in the system?
+
+Are sellers required to upload images of the items they are selling?
+
+Promotion:
+
+Do you wish to create targeted promotions automatically on the basis of sellers information.
+
+Ought there be any self-propagation for bake sales like email or social media marketing?
+
+Accessibility Features:
+
+Apart from major font sizes, can you suggest other facilities to aid you?
+
+General System Questions (for Mr. Rogers and Ms. Smith):
+
+Notifications:
+
+Ought users to have reminders for registration, payments, and bake sales?
+
+Security:
+
+Would you prefer additional security, such as passwords for sensitive areas or data encryption?
+
+Feedback:
+
+Are clients and sellers permitted to place comments for or against the bake sales?
